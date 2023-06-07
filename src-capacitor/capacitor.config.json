@@ -1,0 +1,10 @@
+{
+  "appId": "com.benceanket.app",
+  "appName": "Survey-App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "quasar-project",
+  "version": "0.0.1",
+  "description": "Survey Application: Quasar v2, Vue 3, TypeScript and Vite",
+  "author": "gorkemsandikci <gorkemsandikci@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/app": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
+}
