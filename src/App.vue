@@ -2,6 +2,13 @@
   <router-view />
 </template>
 
-<script setup lang="ts">
+<script lang="ts">
+import {defineComponent} from 'vue'
 
+export default defineComponent({
+  name: 'BenceAnket',
+  created() {
+    this.$q.dark.set(true)
+  }
+})
 </script>
